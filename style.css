@@ -1,0 +1,14 @@
+#success-btn{
+width: 40%;
+}
+#camara{
+width: 360px;
+height: 250px;
+border:10px solid peru;
+}
+#textbox{
+    width: 300px;
+    }
+body{
+background-color: gold;
+}
